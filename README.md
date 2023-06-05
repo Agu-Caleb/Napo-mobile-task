@@ -69,3 +69,6 @@ Run your jest tests:
 5.  Implemented Tests.
 6.  Implemented Accessibility.
 7.  Responsive interface to accommodate various screen sizes and devices.
+
+**Simulation video for ios and an android tablet available in the link below:**
+https://drive.google.com/drive/folders/1WM-K6scA0stAMumLDsijWNkInO-KFNF7?usp=sharing
