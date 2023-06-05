@@ -8,14 +8,14 @@
 /*eslint sort-keys: ["warn", "asc", {"caseSensitive": false, "natural": true}]*/
 
 export const enGB = {
-  AppTitle: 'Magazine Issues',
-  August: 'August 2022',
-  FilterTitleText: 'Filter Magazine Issues by Month',
-  FooterText: 'The full archive is available to Which? members',
-  July: 'July 2022',
-  June: 'June 2022',
-  MagazineCoverText: 'Cover:',
-  MagazineIssueText: 'Issue:',
-  ReloadButton: 'Click To Reset Magazine',
-  September: 'September 2022',
+  AppTitle: 'Movies Search',
+  EmptyData: 'No Data Found',
+  Message: 'Message',
+  MovieReleaseText: 'Released:',
+  MovieTitleText: 'Title:',
+  MovieYearText: 'Year:',
+  Rating: 'Ratings:',
+  SearchButton: 'Search',
+  SearchMovies: 'Search Movies Here...',
+  UnexpectedError: 'Unexpected error in fetching movie details',
 };
